@@ -1,8 +1,4 @@
 # Multidimensional-Scaling-of-Provincial-Employability-in-Spain
-An exploratory study applying multidimensional scaling (MDS) to provincial employability indicators in Spain. It condenses high-dimensional metrics into low-dimensional representations to reveal regional patterns, province clusters, and interpretable underlying factors.
-
----
-
 ## Short abstract
 This repository contains the data, analysis script and final report for an MDS-based exploratory study of provincial employability in Spain. The goal is to reduce high-dimensional employability indicators into 2–3 dimensions using classical multidimensional scaling (MDS), and to visualize regional patterns across Spanish provinces.
 
